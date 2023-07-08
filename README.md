@@ -4,6 +4,9 @@ SSH Brute serves as an essential tool for penetration testers, network administr
 
 USAGE :
 
+git clone https://github.com/poojithakeerthipati/python_ssh_bruteForce.git
+cd python_ssh_bruteForce
+pip3 install paramiko
 
-
+#run the file using this command
 python3 ssh_brute.py
